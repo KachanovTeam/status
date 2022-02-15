@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**KachanovCraft** это комплекс серверов, которые дают новые возможности."
-  introMessage: Здесь вы можете получить информацию о состоянии серверов и сервисов, подконтрольные KachanovTeam. Пожалуйста, отслеживайте данную страницу на факт наличия проблем, все проблемы будут опубликованы здесь.
+  introMessage: Здесь вы можете получить информацию о состоянии серверов и сервисов, подконтрольные KachanovCraft. Пожалуйста, отслеживайте данную страницу на факт наличия проблем, все проблемы будут опубликованы здесь.
   navbar:
     - title: Статус
       href: /
@@ -28,7 +28,7 @@ status-website:
   theme: dark
 
 i18n:
-  footer: 'Страница отслеживания состояния сервисов KachanovCraft. KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org)'.
+  footer: 'Страница отслеживания состояния сервисов KachanovCraft. KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org).'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
