@@ -21,7 +21,8 @@ assignees:
 
 status-website:
   cname: status.kachanovcraft.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://raw.githubusercontent.com/KachanovTeam/status/master/assets/icon.png
+  logoUrl: https://raw.githubusercontent.com/KachanovTeam/status/master/assets/icon.png
   name: Status
   introTitle: "**KachanovTeam Status Servises**"
   introMessage: Здесь вы можете получить информацию о состоянии серверов и сервисов, подконтрольные KachanovTeam. <br> Пожалуйста, отслеживайте данную страницу на факт наличия проблем, все проблемы будут опубликованы здесь.
