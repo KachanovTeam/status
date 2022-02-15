@@ -10,6 +10,10 @@ sites:
     check: "tcp-ping"
     url: $SURVIVAL_SERVER_KT
     port: 25554
+  - name: '[Сервер] Выживание (DEV)'
+    check: "tcp-ping"
+    url: $SURVIVAL_SERVER_KT
+    port: 9999
 
 assignees:
 - Zikferd
