@@ -27,8 +27,6 @@ status-website:
   introTitle: "**KachanovTeam Status Servises**"
   introMessage: Здесь вы можете получить информацию о состоянии серверов и сервисов, подконтрольные KachanovTeam. <br> Пожалуйста, отслеживайте данную страницу на факт наличия проблем, все проблемы будут опубликованы здесь.
   navbar:
-    - title: Статус
-      href: /
     - title: Discord
       href: https://discord.gg/kachanlot-games-interect
   theme: night
