@@ -30,7 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  themeUrl: https://status.kachanovcraft.com/custom.css
 
 i18n:
   footer: 'Страница отслеживания состояния сервисов KachanovCraft. <br> KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org).'
