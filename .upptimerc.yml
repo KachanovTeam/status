@@ -1,16 +1,13 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: KachanovTeam
+repo: status
 
 sites:
-  - name: Google
+  - name: [Сервер] Лобби
     url: https://www.google.com
-  - name: Wikipedia
+  - name: [Сервер] Выживание
     url: https://en.wikipedia.org
-  - name: Hacker News
+  - name: [Сервер] Выживание **(DEV)**
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
