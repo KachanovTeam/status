@@ -34,7 +34,7 @@ i18n:
   activeIncidentSummary: 'Открыт $DATE , $POSTS постов'
   incidentTitle: 'Детали $NUMBER инцидента'
   incidentDetails: 'Детали инцидента'
-  incidentFixed: 'Fixed'
+  incidentFixed: 'Исправлено'
   incidentOngoing: 'Текущий'
   incidentOpenedAt: 'Открыт в'
   incidentClosedAt: 'Закрыт в'
