@@ -29,3 +29,57 @@ status-website:
 i18n:
   footer: 'Страница отслеживания состояния сервисов KachanovCraft. <br> KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org).'
   allSystemsOperational: 'Все системы работают!'
+  activeIncidents: 'Активные инциденты'
+  incidentReport: 'Сводка по #$NUMBER инциденту →'
+  activeIncidentSummary: 'Открыт $DATE , $POSTS постов'
+  incidentTitle: 'Детали $NUMBER инцидента'
+  incidentDetails: 'Детали инцидента'
+  incidentFixed: 'Fixed'
+  incidentOngoing: 'Текущий'
+  incidentOpenedAt: 'Открыт в'
+  incidentClosedAt: 'Закрыт в'
+  incidentSubscribe: 'Подписаться на обновления'
+  incidentViewOnGitHub: 'Просмотреть на GitHub'
+  incidentCommentSummary: 'Опубликовано $DATE от $AUTHOR'
+  incidentBack: '← Обратно ко всем инцидентам'
+  pastIncidents: 'Прошлые инциденты'
+  pastIncidentsResolved: 'Исправлено за $MINUTES минут(ы), с $POSTS постов'
+  liveStatus: 'Текущий статус'
+  overallUptime: 'Общий uptime: $UPTIME'
+  overallUptimeTitle: 'Общий uptime'
+  averageResponseTime: 'Среднее время ответа: $TIMEms'
+  averageResponseTimeTitle: 'Среднее время ответа'
+  sevelDayResponseTime: '7-дневное время ответа'
+  responseTimeMs: 'Время ответа (мс)'
+  up: 'Вверх'
+  down: 'Вниз'
+  degraded: 'Понижено'
+  ms: 'мс'
+  loading: 'Загрузка'
+  navGitHub: 'GitHub'
+  rateLimitExceededTitle: 'Rate limit exceeded'
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: 'Прозошла ошибка'
+  errorIntro: 'Прозошла ошибка при попытки получить последние данные о статусе.'
+  errorText: 'Вы можете попробовать снова через несколько моментов.'
+  errorHome: 'Вернуться на домашнюю страницу'
+  pastScheduledMaintenance: 'Последние плановые технические обслуживания'
+  scheduledMaintenance: 'Запланированное техническое обслуживание'
+  scheduledMaintenanceSummaryStarted: 'Началось $DATE , на протяжении $DURATION минут'
+  scheduledMaintenanceSummaryStarts: 'Начинается $DATE , на $DURATION минут'
+  startedAt: 'Начато в'
+  startsAt: 'Начнется в'
+  duration: 'Продолжительность'
+  durationMin: '$DURATION минут'
+  incidentCompleted: 'Завершено'
+  incidentScheduled: 'Запланировано'
