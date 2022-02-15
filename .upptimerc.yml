@@ -9,6 +9,10 @@ sites:
   - name: '[Сервер] Выживание **(DEV)**'
     url: https://news.ycombinator.com
 
+assignees:
+- Juliano Medichi
+- sepera-okeq
+
 status-website:
   cname: status.kachanovcraft.com
   # baseUrl: /your-repo-name
@@ -21,6 +25,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
+
+i18n:
+  footer: 'Страница отслеживания состояния сервисов KachanovCraft. KachanovTeam 2022. Создано при помощи [Upptime](https://upptime.js.org)'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
