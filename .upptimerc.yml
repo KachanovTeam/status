@@ -33,7 +33,7 @@ status-website:
   themeUrl: https://status.kachanovcraft.com/custom.css
 
 i18n:
-  footer: 'Страница отслеживания состояния сервисов KachanovCraft. <br> KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org).'
+  footer: 'Страница отслеживания состояния сервисов KachanovTeam. <br> KachanovTeam © 2022. Создано при помощи [Upptime](https://upptime.js.org).'
   allSystemsOperational: 'Все системы работают!'
   activeIncidents: 'Активные инциденты'
   incidentReport: 'Сводка по #$NUMBER инциденту →'
